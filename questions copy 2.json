@@ -1,0 +1,646 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "Syllables",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "How many syllables are in the word \"cat\"?",
+          "questionSound":"./assests/sounds/qasounds/cat.mp3",
+          "options": [
+            "./assests/sounds/submit.mp3",
+            "2",
+            "3",
+            "4"
+          ],
+          "optionImg":["./assests/images/question/3.png","./assests/images/question/4.png","./assests/images/question/5.png","./assests/images/question/7.png"],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Cat\" has only one sound beat, so it has 1 syllable."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word has 2 syllables?",
+          "options": [
+            "Dog",
+            "Fish",
+            "Apple",
+            "Cow"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Apple\" has two sound beats: \"ap-ple\", so it has 2 syllables."
+        },
+        {
+          "questionNo": 3,
+          "question": "How many syllables are in \"butterfly\"?",
+          "questionSound":"./assests/sounds/qasounds/butterfly.mp3",
+
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Butterfly\" has three sound beats: \"but-ter-fly\", so it has 3 syllables."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word has the most syllables?",
+          "options": [
+            "Sun",
+            "Moon",
+            "Star",
+            "Rocket"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "\"Rocket\" has two syllables (rock-et), while the others have only one."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word has the least syllables?",
+          "options": [
+            "Dinosaur",
+            "Elephant",
+            "Tiger"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Tiger\" has two syllables (ti-ger), which is fewer than the others. Other words in the options have 3 syllables."
+        }
+      ]
+    },
+    {
+      "heading": "Words with F, FF, and PH",
+      "questions": [
+        {
+          "questionNo": 6,
+          "question": "Which word is spelled correctly? (Display an image of an elephant)",
+          "options": [
+            "Elefant",
+            "Elephant",
+            "Elephent",
+            "Elefent"
+          ],
+          "answer": 1,
+          "image": "./assets/images/question/elephant.png",
+          "explanation": "The correct spelling is E-L-E-P-H-A-N-T. \"Elephant\" is spelled with \"ph\" to make the \"f\" sound."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which is the correct spelling? (Display an image of a fish)",
+          "options": [
+            "Phish",
+            "Fish",
+            "Ffish",
+            "Fissh"
+          ],
+          "answer": 1,
+          "image": "./assets/images/question/fish.png",
+          "explanation": "The correct spelling is F-I-S-H. \"Fish\" is spelled with a single \"f\" at the beginning."
+        },
+        {
+          "questionNo": 8,
+          "question": "Hear the word and choose the correct spelling: /Stuff/",
+          "questionSound":"./assests/sounds/qasounds/stuff.mp3",
+
+          "options": [
+            "Stuf",
+            "Stuph",
+            "Stuff",
+            "Steff"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The correct spelling is S-T-U-F-F. \"Stuff\" is spelt with a double \"ff\" at the end."
+        },
+        {
+          "questionNo": 9,
+          "question": "Hear the word and choose the correct spelling: /Photo/",
+          "questionSound":"./assests/sounds/qasounds/photo.mp3",
+
+          "options": [
+            "Foto",
+            "Phota",
+            "Phote",
+            "Photo"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "The correct spelling is P-H-O-T-O. \"Photo\" is spelled with \"ph\" to make the \"f\" sound."
+        },
+        {
+          "questionNo": 10,
+          "question": "See the image and choose the correct spelling: (Display an image of a telephone)",
+          "options": [
+            "Telephone",
+            "Telefone",
+            "Telephon",
+            "Telefonee"
+          ],
+          "answer": 0,
+          "image": "./assets/images/question/telephone.png",
+          "explanation": "\"Telephone\" is spelt with \"ph\" to make the \"f\" sound."
+        }
+      ]
+    },
+    {
+      "heading": "L and LL Words",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Which word is spelled correctly? (Display an image of a bell)",
+          "options": [
+            "Bel",
+            "Bell",
+            "Bele",
+            "Bello"
+          ],
+          "answer": 1,
+          "image": "./assets/images/question/bell.png",
+          "explanation": "\"Bell\" is spelled with a double \"ll\" at the end. There is a short \"e\" sound, followed by double \"L\"."
+        },
+        {
+          "questionNo": 12,
+          "question": "Hear the word and count the number of letters “L” in that word: /Little/",
+          "questionSound":"./assests/sounds/qasounds/little.mp3",
+
+          "options": [
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The correct spelling is L-I-T-T-L-E. The letter “L” appears two times in this word."
+        },
+        {
+          "questionNo": 13,
+          "question": "Hear the word and choose the correct spelling: /Pill/",
+          "questionSound":"./assests/sounds/qasounds/pill.mp3",
+
+          "options": [
+            "Pill",
+            "Pil",
+            "Pille",
+            "Piel"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The correct spelling is P-I-L-L. \"Pill\" is spelled with a double \"ll\" at the end."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word has a double \"L\" in the middle?",
+          "options": [
+            "/Yellow/",
+            "/Bird/",
+            "/Light/",
+            "/Kite/"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Yellow\" has a double \"L\" in the middle, while the other words do not have a double \"L.\""
+        },
+        {
+          "questionNo": 15,
+          "question": "Which is the correct spelling (something tiny)?",
+          "options": [
+            "Smal",
+            "Smalle",
+            "Smol",
+            "Small"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "The correct spelling is S-M-A-L-L. \"Small\" is spelled with a double \"ll\" at the end."
+        }
+      ]
+    },
+    {
+      "heading": "C, Q, K Sound and Spellings",
+      "questions": [
+        {
+          "questionNo": 16,
+          "question": "Which word is spelled correctly? (Display an image of a cat)",
+          "options": [
+            "Cat",
+            "Kat",
+            "Qat",
+            "Catt"
+          ],
+          "answer": 0,
+          "image": "./assets/images/question/cat.png",
+          "explanation": "\"Cat\" is spelled with a \"c\" at the beginning. The letter C sounds like /K/ in this word."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which is the correct spelling? (Display an image of a Queen)",
+          "options": [
+            "Qween",
+            "Kween",
+            "Queen",
+            "Cween"
+          ],
+          "answer": 2,
+          "image": "./assets/images/question/queen.png",
+          "explanation": "\"Queen\" is spelt with \"qu\" at the beginning. It makes the sound of /kw/ in the beginning."
+        },
+        {
+          "questionNo": 18,
+          "question": "Hear the word and choose the correct spelling: /Kite/",
+          "questionSound":"./assests/sounds/qasounds/kite.mp3",
+
+          "options": [
+            "Kite",
+            "Cite",
+            "Qite",
+            "Kight"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"Kite\" is spelled with a \"k\" at the beginning. It makes the /k/ sound in the beginning."
+        },
+        {
+          "questionNo": 19,
+          "question": "In which word does the letter “C” sound different?",
+          "options": [
+            "Cat",
+            "Cool",
+            "City",
+            "Cold"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The word \"City\" starts with a /ss/ sound in the beginning. Other words start with a /k/ sound in the beginning."
+        },
+        {
+          "questionNo": 20,
+          "question": "Hear the word and choose the correct spelling: /Question/",
+          "questionSound":"./assests/sounds/qasounds/question.mp3",
+
+          "options": [
+            "Cuestion",
+            "Question",
+            "Kwestion"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Question\" is spelled with 'qu' at the beginning. It makes the sound of /kw/ in the beginning."
+        }
+      ]
+    },
+    {
+      "heading": "Diphthongs “ai” and “ay”",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "Which word has the \"ai\" sound?",
+          "options": [
+            "Day",
+            "Rain",
+            "Boy",
+            "Cat"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Rain\" uses the \"ai\" diphthong to make the long \"a\" sound."
+        },
+        {
+          "questionNo": 22,
+          "question": "How do you spell the word that rhymes with \"way\"?",
+          "questionSound":"./assests/sounds/qasounds/way.mp3",
+
+          "options": [
+            "Dai",
+            "Dey",
+            "Day",
+            "Dae"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Day\" uses the \"ay\" diphthong to make the long \"a\" sound at the end of the word."
+        },
+        {
+          "questionNo": 23,
+          "question": "Which word has the \"ay\" sound?",
+          "options": [
+            "/Mail/",
+            "/Play/",
+            "/Tree/",
+            "/Boat/"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Play\" uses the \"ay\" diphthong to make the long \"a\" sound at the end."
+        },
+        {
+          "questionNo": 24,
+          "question": "Hear the word: /Paint/. In this word, where is the \"ai\"?",
+          "questionSound":"./assests/sounds/qasounds/paint.mp3",
+
+          "options": [
+            "At the beginning",
+            "In the middle",
+            "At the end"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The word is spelt as \"Paint\". \"ai\" appears in the middle of \"paint.\""
+        },
+        {
+          "questionNo": 25,
+          "question": "Which word has the \"ay\" sound at the end?",
+          "options": [
+            "/Wait/",
+            "/May/",
+            "/Pain/",
+            "/Sail/"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"May\" uses the \"ay\" diphthong to make the long \"a\" sound at the end."
+        }
+      ]
+    },
+    {
+      "heading": "Diphthongs “ee” and “ea”",
+      "questions": [
+        {
+          "questionNo": 26,
+          "question": "Which word has the \"ee\" sound?",
+          "options": [
+            "Cat",
+            "Dog",
+            "Tree",
+            "Ball"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "\"Tree\" uses the \"ee\" diphthong to make the long \"e\" sound."
+        },
+        {
+          "questionNo": 27,
+          "question": "How do you spell the word that means \"to look at\"?",
+          "options": [
+            "See",
+            "Sea",
+            "Sei",
+            "Se"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "\"See\" uses the \"ee\" diphthong to make the long \"e\" sound."
+        },
+        {
+          "questionNo": 28,
+          "question": "Which word has the \"ea\" sound?",
+          "options": [
+            "/Read/",
+            "/Red/"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The spelling is R-E-A-D. \"Read\" uses the \"ea\" diphthong to make the long \"e\" sound."
+        },
+        {
+          "questionNo": 29,
+          "question": "How do you spell the word that means \"a big body of water\"?",
+          "options": [
+            "Se",
+            "Sea",
+            "See",
+            "Sei"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "\"Sea\" uses the \"ea\" diphthong to make the long \"e\" sound."
+        },
+        {
+          "questionNo": 30,
+          "question": "Look at the image and choose which word is spelt correctly. (Display an image of a sheep)",
+          "options": [
+            "Sheep",
+            "Shep",
+            "Sheap",
+            "Sheeep"
+          ],
+          "answer": 0,
+          "image": "./assets/images/question/30.png",
+          "explanation": "\"Sheep\" uses the \"ee\" diphthong to make the long \"e\" sound."
+        }
+      ]
+    },
+    {
+      "heading": "Diphthongs “oi”, “ou,” “ow,” and “oy”",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "Which word has the /oy/ sound?",
+          "options": [
+            "Boy",
+            "Coin",
+            "Cow"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The word \"coin\" has the /oy/ sound in it. The word uses the diphthong ‘oi’ in between."
+        },
+        {
+          "questionNo": 32,
+          "question": "What word has the /oy/ sound?",
+          "options": [
+            "Toy",
+            "Out",
+            "Oil"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "The word \"toy\" has the /oy/ sound at the end. The word uses the diphthong ‘oy’ in between."
+        },
+        {
+          "questionNo": 33,
+          "question": "Which word has the /ow/ sound?",
+          "options": [
+            "Train",
+            "Joy",
+            "House"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The word \"house\" has the /ow/ sound in it. It uses the diphthong ‘ou’ in it."
+        },
+        {
+          "questionNo": 34,
+          "question": "Which word uses the diphthong ‘oi’?",
+          "options": [
+            "Point",
+            "Soil",
+            "Foil",
+            "All of the above"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "All the given words have the /oy/ in them. These words have the diphthong ‘oi’ in the middle."
+        },
+        {
+          "questionNo": 35,
+          "question": "The diphthong ‘ow’ is used at the _____ of a word or a syllable.",
+          "options": [
+            "Middle",
+            "Start",
+            "End"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The diphthong ‘ow’ is used at the end of the word or a syllable. When you hear /ow/ at the end of a word or syllable, use ow (cow, now, pow-er, show-er)."
+        }
+      ]
+    },
+    {
+      "heading": "Types of sentences",
+      "questions": [
+        {
+          "questionNo": 36,
+          "question": "Which type of sentence is this? \"The cat is sleeping.\"",
+          "options": [
+            "Question",
+            "Statement",
+            "Exclamation",
+            "Command"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "This sentence tells us something. It states a fact, so it's a statement."
+        },
+        {
+          "questionNo": 37,
+          "question": "Which sentence is a question?",
+          "options": [
+            "I love ice cream.",
+            "Wow, that's amazing!",
+            "Do you like pizza?",
+            "Please close the door."
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "This sentence asks something and ends with a question mark, so it's a question."
+        },
+        {
+          "questionNo": 38,
+          "question": "Which is an exclamation sentence?",
+          "options": [
+            "The sun is bright.",
+            "Where is my book?",
+            "Wash your hands.",
+            "What a beautiful day!"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "This sentence shows strong feelings and ends with an exclamation mark, so it's an exclamation."
+        },
+        {
+          "questionNo": 39,
+          "question": "What type of sentence is \"How old are you?\"",
+          "options": [
+            "Statement",
+            "Question",
+            "Exclamation",
+            "Command"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "This sentence asks for information and ends with a question mark, so it's a question."
+        },
+        {
+          "questionNo": 40,
+          "question": "Which sentence is a command?",
+          "options": [
+            "The sky is blue.",
+            "Sit down, please.",
+            "Are you hungry?",
+            "I love to play."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "This sentence tells someone to do something, so it's a command."
+        }
+      ]
+    },
+    {
+      "heading": "Subject and Predicate",
+      "questions": [
+        {
+          "questionNo": 41,
+          "question": "In \"Birds fly high,\" what is the predicate?",
+          "options": [
+            "Birds",
+            "Fly",
+            "High",
+            "Fly high"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "The predicate tells us something about the subject. Here, it tells us what the birds do."
+        },
+        {
+          "questionNo": 42,
+          "question": "What's the subject in \"My friend likes ice cream\"?",
+          "options": [
+            "My",
+            "Friend",
+            "My friend",
+            "Likes ice cream"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The subject is the complete person we're talking about, including 'my.'"
+        },
+        {
+          "questionNo": 43,
+          "question": "In \"We read books,\" what's the predicate?",
+          "options": [
+            "We",
+            "Read",
+            "Books",
+            "Read books"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "The predicate tells us what we do. Here, it tells us that we read books."
+        },
+        {
+          "questionNo": 44,
+          "question": "In \"She sings beautifully,\" what is the predicate?",
+          "options": [
+            "She",
+            "Sings",
+            "Beautifully",
+            "Sings beautifully"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "The predicate includes the action (sings) and how it's done (beautifully)."
+        },
+        {
+          "questionNo": 45,
+          "question": "What's the subject in \"Big elephants eat leaves\"?",
+          "options": [
+            "Big",
+            "Big elephants",
+            "Eat leaves"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The subject is the complete thing we're talking about, including describing words like 'big.'"
+        }
+      ]
+    }
+    
+    
+  ]
+}

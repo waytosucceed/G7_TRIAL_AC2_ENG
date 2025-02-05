@@ -1,0 +1,252 @@
+{
+  "heading": "select a topic",
+  "topics": [
+    {
+      "heading": "Reading Comprehension",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is Sherlock Holmes’ claim about Dr. Watson at the beginning of their conversation?",
+          "options": [
+            { "text": "Watson has been on vacation." },
+            { "text": "Watson has gained weight." },
+            { "text": "Watson has a new job as a detective." },
+            { "text": "Watson has moved to another city." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Which piece of evidence does Holmes use to support his claim that Watson has been in bad weather recently?",
+          "options": [
+            { "text": "Watson tells Holmes he was caught in a storm." },
+            { "text": "Holmes sees mud marks on Watson’s shoe." },
+            { "text": "Holmes remembers the weather report." },
+            { "text": "Watson’s coat is still wet from the rain." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "Why is Watson’s surprise at Holmes’ deductions important for understanding how to evaluate claims?",
+          "options": [
+            { "text": "It shows that Holmes often makes mistakes." },
+            { "text": "It highlights how Watson trusts Holmes without question." },
+            { "text": "It teaches the importance of questioning claims until strong evidence is given." },
+            { "text": "It proves that Watson doesn’t understand how Holmes thinks." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the following best describes strong evidence in Sherlock Holmes' deductions?",
+          "options": [
+            { "text": "Guessing based on past experiences." },
+            { "text": "Observing specific details and linking them logically to a conclusion." },
+            { "text": "Using opinions and assumptions without verification." },
+            { "text": "Asking Watson to confirm whether Holmes is correct." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "\"<b style='color:blue'>Public transport should be free.</b>\"<br> Which of the following is the strongest evidence to support this claim?",
+          "options": [
+            { "text": "Many people complain about paying for public transport." },
+            { "text": "Some countries have made public transport free, with positive results." },
+            { "text": "Cars are expensive to maintain." },
+            { "text": "Buses can be very crowded during rush hour." }
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+      
+    },
+    {
+      "heading": "Language and Convention - I",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Read the passage:<br> 'Jake was reluctant to join the school Drama club at first. But after watching a performance, he changed his mind and signed up immediately.'<br> What does '<b style='color:blue'>reluctant</b>' mean in this context?",
+          "options": [
+            { "text": "Excited" },
+            { "text": "Unwilling" },
+            { "text": "Ready" },
+            { "text": "Eager" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "\"My sister works at the local animal shelter. She helps abandoned pets find new homes. Yesterday, she was delighted when a family adopted a three-legged dog.\"<br> Select the word from the passage that means <b style='color:blue'>extremely happy:</b>",
+          "options": [
+            { "text": "Abandoned" },
+            { "text": "Adopted" },
+            { "text": "Delighted" },
+            { "text": "Local" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "\"During the school play rehearsal, Sam forgot his lines and improvised new ones. The audience never knew he made up the dialogue on the spot.\"<br> Select the word that means <b style='color:blue'>to create something without planning:</b>",
+          "options": [
+            { "text": "Rehearsal" },
+            { "text": "Dialogue" },
+            { "text": "Audience" },
+            { "text": "Improvised" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 4,
+          "question": "Complete the sentence with the correct verb.<br> 'The children __________ in the park every afternoon.'",
+          "options": [
+            { "text": "Plays" },
+            { "text": "Played" },
+            { "text": "Play" },
+            { "text": "Playing" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the correct subject to complete the sentence.<br> '__________ is a wonderful hobby for many people.'",
+          "options": [
+            { "text": "Paint" },
+            { "text": "Painting" },
+            { "text": "Painted" },
+            { "text": "Painter" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+    },
+    {
+      "heading": "Language and Convention - II",
+      "questions": [
+        {
+          "questionNo": 6,
+          "question": "Complete the sentence with the correct verb.<br> 'My friend and I __________ to the library yesterday.'",
+          "options": [
+            { "text": "Goes" },
+            { "text": "Went" },
+            { "text": "Go" },
+            { "text": "Going" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "Choose the word that best describes or modifies the noun in bold.<br> 'The <b style='color:blue'>flowers</b> in the garden smelled ________.'",
+          "options": [
+            { "text": "Beautiful" },
+            { "text": "Beautifully" },
+            { "text": "Beautify" },
+            { "text": "Beauty" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the word that best describes or modifies the verb in bold.<br> 'She <b style='color:blue'>sang</b> the song __________.'",
+          "options": [
+            { "text": "Good" },
+            { "text": "Well" },
+            { "text": "Goodly" },
+            { "text": "Best" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the word that best completes the sentence.<br> 'The teacher spoke ________ to the students.'",
+          "options": [
+            { "text": "Calm" },
+            { "text": "Calming" },
+            { "text": "Calmly" },
+            { "text": "Calmness" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "Select the simple subject in the sentence:<br> <b style='color:blue'>'The tall man walked quickly to the store.'</b>",
+          "options": [
+            { "text": "Man" },
+            { "text": "Tall" },
+            { "text": "Walked" },
+            { "text": "Store" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Language and Convention - III",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Choose the simple predicate.<br> 'Every morning, the dog barks loudly at the mailman.'",
+          "options": [
+            { "text": "Dog" },
+            { "text": "Barks" },
+            { "text": "Loudly" },
+            { "text": "Mailman" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "Select the correct object pronoun to complete the sentence.<br> 'The coach praised __________ for their hard work.'",
+          "options": [
+            { "text": "We" },
+            { "text": "Us" },
+            { "text": "They" },
+            { "text": "Our" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the correct subject pronoun to complete the sentence.<br> '__________ are going to the museum tomorrow.'",
+          "options": [
+            { "text": "Him" },
+            { "text": "They" },
+            { "text": "Them" },
+            { "text": "Her" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "Choose the correct subject pronoun to complete the sentence. <br>'The teacher handed the assignments to __________.'",
+          "options": [
+            { "text": "She" },
+            { "text": "They" },
+            { "text": "Her" },
+            { "text": "We" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "Read the sentences:<br><b style='color:blue'> The scientist won an award.<br> She discovered a new species of frog.</b><br> Which of the following correctly combines the sentences using a relative clause?",
+          "options": [
+            { "text": "The scientist, who discovered a new species of frog, won an award." },
+            { "text": "The scientist won an award, and she discovered a new species of frog." },
+            { "text": "The scientist discovered a new species of frog that won an award." },
+            { "text": "The scientist who won an award loved frogs." }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+    }
+  ]
+}
