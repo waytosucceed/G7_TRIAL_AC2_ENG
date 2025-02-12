@@ -204,12 +204,12 @@
           "questionNo": 12,
           "question": "Select the correct object pronoun to complete the sentence.<br> 'The coach praised __________ for their hard work.'",
           "options": [
-            { "text": "We" },
+            { "text": "Them" },
             { "text": "Us" },
             { "text": "They" },
             { "text": "Our" }
           ],
-          "answer": 1
+          "answer": 0
         },
         {
           "questionNo": 13,
